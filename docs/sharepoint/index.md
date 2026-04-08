@@ -1,5 +1,5 @@
-# SharePoint 与文件
+# SharePoint & Files
 
-SharePoint 使用指南。
+Guides for accessing and managing files in SharePoint.
 
-内容待补充。如有紧急问题请联系：[support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au)
+Content coming soon. For urgent help, contact IT: [support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au)

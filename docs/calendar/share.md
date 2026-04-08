@@ -1,88 +1,87 @@
-# 如何共享你的 Outlook 日历
+# How to Share Your Outlook Calendar
 
-有时你需要让同事查看你的日程，或者你需要查看某位同事的日历。  
-通过 Outlook 的日历共享功能，对方会收到一封邮件邀请，接受后即可在自己的 Outlook 中看到你的日历。
-
----
-
-## 权限说明
-
-共享日历时，你可以选择给对方以下四种权限之一：
-
-| 权限级别 | 对方能看到什么 | 适合场景 |
-|---------|-------------|---------|
-| **只能查看忙闲状态** | 只能看到你什么时候有空、什么时候忙，看不到任何细节 | 需要安排会议、但不需要知道你在做什么 |
-| **可以查看标题和地点** | 能看到日程的标题和地点，但看不到详细内容 | 一般同事之间的日历共享 |
-| **可以查看所有详情** | 能看到日程的全部内容，包括备注和参会人 | 需要密切配合的同事，如同组律师 |
-| **可以编辑** | 能查看所有内容，还可以在你的日历上创建或修改日程 | 助理或秘书代为管理日程 |
-
-!!! tip "建议"
-    一般律师之间选「可以查看标题和地点」就足够了。只有助理代为管理日程时，才需要给「可以编辑」权限。
+Sometimes you need a colleague to see your schedule, or you need to view theirs. Outlook's calendar sharing feature sends the other person an email invitation — once they accept, your calendar appears in their Outlook automatically.
 
 ---
 
-## 共享你的日历给别人
+## Permission Levels
 
-=== "Outlook 桌面版（Windows / Mac）"
+When sharing your calendar, you can choose one of four permission levels:
 
-    1. 打开 Outlook，点击底部导航栏的 **日历** 图标
-    2. 在左侧找到「我的日历」，右键点击你的主日历（通常是你的名字）
-    3. 选择 **共享** → **共享日历**
-    4. 在弹出窗口的「收件人」栏，输入对方的姓名或邮箱
-    5. 在「详细信息」下拉菜单中选择权限级别（参考上方表格）
-    6. 点击 **发送**
+| Permission | What they can see | Best for |
+|-----------|-------------------|---------|
+| **Availability only** | Free/busy status only — no details | Scheduling meetings without exposing your agenda |
+| **Limited details** | Event title and location only | General sharing between colleagues |
+| **Full details** | Everything — notes, attendees, full description | Close collaboration, e.g. lawyers in the same team |
+| **Can edit** | Full view plus ability to create and modify events | Assistants or secretaries managing your diary |
 
-    对方会收到一封共享邀请邮件，点击「接受」后即可在他们的 Outlook 中看到你的日历。
-
-=== "Outlook 网页版（OWA）"
-
-    1. 打开浏览器，登录 [outlook.office.com](https://outlook.office.com)
-    2. 点击左侧导航栏的 **日历** 图标
-    3. 在左侧面板找到你的主日历，点击旁边的 **···** 菜单
-    4. 选择 **共享**
-    5. 在「与以下人员共享」栏输入对方姓名或邮箱
-    6. 点击搜索结果中的对方名字，然后在右侧选择权限级别
-    7. 点击 **共享**
+!!! tip "Recommendation"
+    For most lawyers, **Limited details** is sufficient. Only grant **Can edit** to an assistant who manages your calendar on your behalf.
 
 ---
 
-## 接受别人共享的日历
+## Sharing Your Calendar
 
-当你收到共享邀请邮件时：
+=== "Outlook Desktop (Windows / Mac)"
 
-1. 打开邮件，点击 **接受** 按钮
-2. 对方的日历会自动出现在你 Outlook 左侧的「其他人的日历」列表中
-3. 勾选该日历即可在日历视图中显示
+    1. Open Outlook and click the **Calendar** icon in the bottom navigation bar
+    2. In the left panel under **My Calendars**, right-click your main calendar (usually your name)
+    3. Select **Share** → **Share Calendar**
+    4. In the **To** field, type the person's name or email address
+    5. Under **Details**, select the permission level from the dropdown (see table above)
+    6. Click **Send**
+
+    The recipient will receive a sharing invitation by email. Once they click **Accept**, your calendar will appear in their Outlook.
+
+=== "Outlook Web (OWA)"
+
+    1. Open a browser and sign in at [outlook.office.com](https://outlook.office.com)
+    2. Click the **Calendar** icon in the left navigation bar
+    3. Find your main calendar in the left panel and click the **···** menu next to it
+    4. Select **Share**
+    5. Type the person's name or email in the **Share with** field
+    6. Select their name from the search results, then choose the permission level on the right
+    7. Click **Share**
+
+---
+
+## Accepting a Shared Calendar
+
+When you receive a calendar sharing invitation:
+
+1. Open the email and click **Accept**
+2. The person's calendar will automatically appear under **Other People's Calendars** in your Outlook
+3. Tick the checkbox next to it to display it in your calendar view
 
 !!! note
-    如果没有收到邮件，请联系对方确认是否已发送共享邀请，或联系 IT 支持：**support@longtonblackwell.com.au**
+    If you didn't receive the invitation email, ask the sender to confirm it was sent, or contact IT support at **support@longtonblackwell.com.au**
 
 ---
 
-## 取消日历共享
+## Removing Calendar Access
 
-如果你不再想与某人共享日历：
+If you no longer want to share your calendar with someone:
 
-1. 按照上方步骤打开日历共享设置
-2. 找到你想移除的人，点击其名字旁的 **移除** 或 **×**
-3. 保存即可，对方将无法继续查看你的日历
+1. Follow the steps above to open your calendar sharing settings
+2. Find the person you want to remove and click **Remove** or **×** next to their name
+3. Save — they will immediately lose access to your calendar
 
 ---
 
-## 常见问题
+## Frequently Asked Questions
 
-**Q：我共享了日历，但对方说看不到某些日程？**
+**Q: I shared my calendar but a colleague says they can't see some events. Why?**
 
-A：检查该日程的隐私设置。如果日程被标记为「私密」，即使共享了日历，对方也只能看到忙闲状态，无法看到详情。
+A: Check the privacy setting on those events. If an event is marked as **Private**, others will only see your free/busy status for that time slot, even if you've shared full details.
 
-**Q：我可以同时与多个人共享吗？**
+**Q: Can I share with multiple people at once?**
 
-A：可以，每次添加一个人并设置各自的权限即可，每个人的权限可以不同。
+A: Yes. Add one person at a time and set a different permission level for each if needed.
 
-**Q：共享日历后，对方能看到我过去的日程吗？**
+**Q: Can they see my past events after I share?**
 
-A：可以，权限生效后对方可以查看你日历上所有时间段的内容，包括历史日程。
+A: Yes. Once access is granted, they can view all events on your calendar — past and future.
 
-**Q：手机上也能看到共享日历吗？**
+**Q: Will shared calendars appear on my phone?**
 
-A：可以。只要手机 Outlook App 使用同一个公司账号登录，接受共享后在 App 的日历中也能看到。
+A: Yes. As long as the Outlook mobile app is signed in with the same work account, accepted shared calendars will appear there too.

@@ -1,11 +1,11 @@
 site_name: Longton IT Help Centre
-site_description: IT 使用指南 — 为 Longton 团队员工提供
+site_description: IT guides and support resources for Longton staff
 site_author: Longton IT Team
-site_url: https://kb.longton.pages.dev
+site_url: https://lt-it-kb.pages.dev
 
 theme:
   name: material
-  language: zh
+  language: en
   palette:
     - scheme: default
       primary: indigo
@@ -28,38 +28,39 @@ theme:
     - content.code.copy
   icon:
     logo: material/lifebuoy
-  favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/OOjs_UI_icon_settings.svg/48px-OOjs_UI_icon_settings.svg.png
 
 plugins:
   - search:
-      lang: zh
+      lang: en
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
   - attr_list
   - toc:
       permalink: true
 
 nav:
-  - 首页: index.md
-  - 日历与会议:
-    - 日历共享指南: calendar/share.md
-  - 邮件与 Outlook:
+  - Home: index.md
+  - Calendar & Meetings:
+    - Share Your Calendar: calendar/share.md
+  - Email & Outlook:
     - email/index.md
-  - SharePoint 与文件:
+  - SharePoint & Files:
     - sharepoint/index.md
   - Microsoft Teams:
     - teams/index.md
-  - 常见问题:
+  - FAQ:
     - general/faq.md
 
 extra:
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:support@longtonblackwell.com.au
-      name: 联系 IT 支持
+      name: Contact IT Support
 
 copyright: "&copy; 2026 Longton Blackwell — IT Help Centre"

@@ -1,29 +1,29 @@
-# 常见问题
+# Frequently Asked Questions
 
-**Q：电脑登不上去怎么办？**
+**Q: I can't log in to my computer. What should I do?**
 
-A：请联系 IT 支持：[support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au) 或在 Teams 中搜索「IT Support」。
-
----
-
-**Q：忘记 Microsoft 365 密码怎么办？**
-
-A：访问 [aka.ms/sspr](https://aka.ms/sspr) 自助重置密码（需已设置手机验证）。如无法访问，请联系 IT 支持。
+A: Contact IT support at [support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au) or message the **IT Support** channel in Teams.
 
 ---
 
-**Q：如何在手机上设置工作邮件？**
+**Q: I've forgotten my Microsoft 365 password. How do I reset it?**
 
-A：下载 **Microsoft Outlook** App，用公司邮箱地址登录即可。
-
----
-
-**Q：电脑很慢怎么办？**
-
-A：先尝试重启电脑。如问题持续，请联系 IT 支持。
+A: Visit [aka.ms/sspr](https://aka.ms/sspr) to reset your password self-service (you'll need your phone for verification). If that doesn't work, contact IT support.
 
 ---
 
-**Q：如何联系 IT？**
+**Q: How do I set up my work email on my phone?**
 
-A：发送邮件至 [support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au)，或在 Teams 中直接发消息给 IT Support。
+A: Download the **Microsoft Outlook** app and sign in with your work email address. IT can assist if you run into issues.
+
+---
+
+**Q: My computer is running slowly. What can I do?**
+
+A: Try restarting first. If the problem continues, contact IT support and we'll take a look.
+
+---
+
+**Q: How do I contact IT?**
+
+A: Email [support@longtonblackwell.com.au](mailto:support@longtonblackwell.com.au) or send a message to **IT Support** in Microsoft Teams.
