@@ -54,6 +54,8 @@ nav:
     - sharepoint/index.md
   - Microsoft Teams:
     - teams/index.md
+  - Drivers:
+    - Printer Drivers: drivers/index.md
   - FAQ:
     - general/faq.md
 
